@@ -2,6 +2,33 @@
   "name": "@azure/msal-node",
   "entries": [
     {
+      "date": "Thu, 17 Nov 2022 18:12:14 GMT",
+      "tag": "@azure/msal-node_v1.14.4",
+      "version": "1.14.4",
+      "comments": {
+        "patch": [
+          {
+            "author": "rginsburg@microsoft.com",
+            "package": "@azure/msal-node",
+            "commit": "3abd22bdd6a3360822f442c5f9408c7d8e47fdde",
+            "comment": "Added logging to Authority class"
+          },
+          {
+            "author": "rginsburg@microsoft.com",
+            "package": "@azure/msal-node",
+            "commit": "5ad8f76c774a4d6a4c41380fc1a896c7910a3e62",
+            "comment": "Fixed msal-node HttpClient server error bug #5342"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-node",
+            "comment": "Bump @azure/msal-common to v9.0.0",
+            "commit": "f318796c278e39153e8cd9bf3ce03259cb80c8a6"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 07 Nov 2022 22:46:55 GMT",
       "tag": "@azure/msal-node_v1.14.3",
       "version": "1.14.3",

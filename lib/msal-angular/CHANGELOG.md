@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-angular
 
-This log was last generated on Mon, 07 Nov 2022 22:46:55 GMT and should not be manually modified.
+This log was last generated on Thu, 17 Nov 2022 18:12:14 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.5.0
+
+Thu, 17 Nov 2022 18:12:14 GMT
+
+### Minor changes
+
+- Bump @azure/msal-browser to v2.32.0
 
 ## 2.4.6
 

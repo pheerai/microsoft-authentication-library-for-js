@@ -1,8 +1,21 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Mon, 07 Nov 2022 22:46:55 GMT and should not be manually modified.
+This log was last generated on Thu, 17 Nov 2022 18:12:14 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.32.0
+
+Thu, 17 Nov 2022 18:12:14 GMT
+
+### Minor changes
+
+- Added logging to Authority class (rginsburg@microsoft.com)
+- Bump @azure/msal-common to v9.0.0
+
+### Patches
+
+- Export popup attributes #5364 (hemoral@microsoft.com)
 
 ## 2.31.0
 

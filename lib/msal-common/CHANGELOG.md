@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Mon, 07 Nov 2022 22:46:55 GMT and should not be manually modified.
+This log was last generated on Thu, 17 Nov 2022 18:12:14 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0
+
+Thu, 17 Nov 2022 18:12:14 GMT
+
+### Major changes
+
+- Added logging to Authority class (rginsburg@microsoft.com)
 
 ## 8.0.0
 

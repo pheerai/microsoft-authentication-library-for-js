@@ -2,6 +2,27 @@
   "name": "@azure/node-token-validation",
   "entries": [
     {
+      "date": "Thu, 17 Nov 2022 18:12:14 GMT",
+      "tag": "@azure/node-token-validation_v1.0.0-alpha.0",
+      "version": "1.0.0-alpha.0",
+      "comments": {
+        "none": [
+          {
+            "author": "rginsburg@microsoft.com",
+            "package": "@azure/node-token-validation",
+            "commit": "3abd22bdd6a3360822f442c5f9408c7d8e47fdde",
+            "comment": "Added logging to Authority class"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/node-token-validation",
+            "comment": "Bump @azure/msal-common to v9.0.0",
+            "commit": "f318796c278e39153e8cd9bf3ce03259cb80c8a6"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 07 Nov 2022 22:46:55 GMT",
       "tag": "@azure/node-token-validation_v1.0.0-alpha.0",
       "version": "1.0.0-alpha.0",
